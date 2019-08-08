@@ -1,0 +1,10 @@
+node_modules
+components
+webpack*
+decorators
+helpers
+app.config.js
+texts
+data
+package.json
+index.js
